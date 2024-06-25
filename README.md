@@ -28,7 +28,7 @@
 ### 💎 Избранные репозитории:
 
 #### <img src="https://github.com/kladkovaekaterina/lundenilona-tests/blob/main/media/logos/li.png" width="130" height="33"/> -> [lundenilona-tests](https://github.com/kladkovaekaterina/lundenilona-tests)
-> Проект по автоматизации тестирования для веб-сайта LUNDENILONA.RU и мобильного андройд приложения LundenIlona
+> Проект по автоматизации тестирования для веб-сайта LUNDENILONA.RU и мобильного андроид приложения LundenIlona
 
 <p align="left">
   <img title="web" src="https://github.com/kladkovaekaterina/lundenilona-tests/blob/main/media/gifs/web.gif">
